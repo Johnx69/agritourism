@@ -1,0 +1,40 @@
+{
+  "columns": [
+    "name",
+    "tons",
+    "cost",
+    "total"
+  ],
+  "rows": [
+    {
+      "name": "coal",
+      "tons": 2323321,
+      "cost": 3923,
+      "total": 9114388283
+    },
+    {
+      "name": "grain",
+      "tons": 800,
+      "cost": 30,
+      "total": 24000
+    },
+    {
+      "name": "mineral",
+      "tons": 500,
+      "cost": 60,
+      "total": 30000
+    },
+    {
+      "name": "asdasd",
+      "tons": 123123,
+      "cost": 123123,
+      "total": 15159273129
+    },
+    {
+      "name": "Total",
+      "tons": 2447744,
+      "cost": 127136,
+      "total": 24273715412
+    }
+  ]
+}

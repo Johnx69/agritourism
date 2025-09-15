@@ -1,0 +1,34 @@
+{
+  "columns": [
+    "name",
+    "tons",
+    "cost",
+    "total"
+  ],
+  "rows": [
+    {
+      "name": "coal",
+      "tons": 1200,
+      "cost": 20,
+      "total": 24000
+    },
+    {
+      "name": "grain",
+      "tons": 800,
+      "cost": 30,
+      "total": 24000
+    },
+    {
+      "name": "mineral",
+      "tons": 500,
+      "cost": 60,
+      "total": 30000
+    },
+    {
+      "name": "Total",
+      "tons": 2500,
+      "cost": 110,
+      "total": 78000
+    }
+  ]
+}
